@@ -21,13 +21,11 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use your PAT here
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # Specify the Node.js version
+          node-version: "20.5.0"
 
       - name: Install dependencies
         run: npm install -g pnpm && pnpm install # Install dependencies
@@ -40,5 +38,5 @@ jobs:
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor}}@users.noreply.github.com"
           git add output/art_rosnovsky_software_engineer.pdf
-          git commit -m "${{ github.event.head_commit.message }}"
+          git commit -am "update resume PDF"
           git push
