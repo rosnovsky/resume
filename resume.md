@@ -12,7 +12,7 @@ pdf_options:
 
 ## Software Engineer
 
-> job@rosnovsky.us | [linkedin.com/in/rosnovsky](https://linkedin.com/in/rosnovsky) | Washington state | **Remote Only**
+> job@rosnovsky.us | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only**
 
 Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kubernetes`, and CI/CD. I champion sustainable, ethical tech that makes a positive impact, and thrive in diverse, remote work environments.
 
