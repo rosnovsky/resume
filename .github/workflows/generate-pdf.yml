@@ -1,18 +1,33 @@
+name: Generate PDF from resume
+
 on:
   push:
+    paths:
+      - "resume.md"
 
 jobs:
-  generate_pdf:
+  build:
     runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js 20
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
 
-    - name: pnpm install and build
-      run: |
-        pnpm install
-        pnpm run build --if-present
-        
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20" # Specify the Node.js version
+
+      - name: Install dependencies
+        run: npm install -g pnpm && pnpm install # Install dependencies
+
+      - name: Generate PDF
+        run: pnpm  build # Ensure this script generates the PDF from resume.md
+
+      - name: Commit PDF
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/resume.pdf
+          git commit -m "Update resume PDF" -a || echo "No changes to commit"
+          git push
