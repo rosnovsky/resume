@@ -16,7 +16,7 @@ Dedicated JavaScript/TypeScript Engineer with a knack for React, Kubernetes, and
 
 ### Software Engineer
 
-> [Okta, Remote](https://okta.com) • Mar 2021 - Present
+> **[Okta](https://okta.com)**, Remote • Mar 2021 - Present
 
 - Delivered the [Quarterly Snapshot](https://auth0.com/docs/get-started/tenant-settings/auth0-teams/quarterly-snapshot) feature on schedule.
 - Enhanced Technical Account Managers' workflow with internal tools for Quarterly Snapshots.
@@ -24,31 +24,33 @@ Dedicated JavaScript/TypeScript Engineer with a knack for React, Kubernetes, and
 
 ### Developer Support Engineer
 
-> [Auth0, Remote](https://auth0.com) • Dec 2019 - Mar 2021
+> **[Auth0](https://auth0.com)**, Remote • Dec 2019 - Mar 2021
 
 - Assisted numerous clients with various levels of Identity Management integrations, from simple setups to complex configurations.
 
 ### Software Engineer
 
-> [Microsoft, Redmond, WA](https://microsoft.com) • Apr 2019 - Oct 2019
+> **[Microsoft](https://microsoft.com)**, Redmond, WA • Apr 2019 - Oct 2019
 
 - Crafted both the UI and server for an internal search application using C#, .NET Core, MSSQL, and React, scaling it from a prototype to a full-scale production app.
 
 ### Web Developer
 
-> Transmark Logistics, Kent, WA • Oct 2018 — Mar 2019
+> **Transmark Logistics**, Kent, WA • Oct 2018 — Mar 2019
 
 - Pioneered an internal shipment and task management system, saving users an average of 40 minutes per day through UI enhancements.
 
 ### Web Developer
 
-> [AT&T, Bothell, WA](https://att.com) • Apr 2017 - Sep 2018
+> **[AT&T](https://att.com)**, Bothell, WA • Apr 2017 - Sep 2018
 
 - Executed over 100 updates and rectified 100+ defects in the AT&T MyServices client portal.
 
+<div class="page-break"></div>
+
 ### Web Producer
 
-> [Intel, Hillsboro, OR](https://intel.com) • Dec 2016 - Apr 2017
+> **[Intel](https://intel.com)**, Hillsboro, OR • Dec 2016 - Apr 2017
 
 - Launched Intel’s revamped Product catalog with AEM, HTML/CSS, and Bootstrap.
 

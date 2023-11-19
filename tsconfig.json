@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // Set the JavaScript language version for latest Node.js
+    "module": "NodeNext", // CommonJS modules for Node.js compatibility
+    "lib": [
+      "ESNext"
+    ],
+    "strict": true, // Enable all strict type-checking options
+    "esModuleInterop": true, // Enables compatibility with Babel-style module imports
+    "skipLibCheck": true, // Skip type checking of all declaration files
+    "forceConsistentCasingInFileNames": true, // Ensure case consistency in imports
+    "moduleResolution": "NodeNext", // Use Node.js style module resolution
+    "resolveJsonModule": true, // Include modules imported from .json files
+    "outDir": "./dist", // Output directory for compiled files
+    "rootDir": "./", // Root directory of source files
+    "removeComments": true, // Remove comments in the output
+    "noEmit": true, // Skip emitting files since you use ts-node
+    "sourceMap": true // Generate source maps for debugging
+  },
+  "include": [
+    "**/*"
+  ], // Include all files in the src directory
+  "exclude": [
+    "node_modules",
+    "dist"
+  ] // Exclude node_modules and dist from the compilation
+}

@@ -1,0 +1,32 @@
+{
+	"name": "resume-manager",
+	"version": "1.0.0",
+	"description": "Converts Markdown resume to PDF and DOCX formats",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "ts-node index.ts"
+	},
+	"keywords": [
+		"resume",
+		"markdown",
+		"pdf",
+		"docx",
+		"converter"
+	],
+	"author": "Art Rosnovsky",
+	"license": "MIT",
+	"dependencies": {
+		"markdown-pdf": "^11.0.0",
+		"md-to-pdf": "^5.2.4",
+		"typescript": "^5.2.2"
+	},
+	"devDependencies": {
+		"@types/node": "latest",
+		"@types/markdown-pdf": "^9.0.5",
+		"ts-node": "latest",
+		"typescript": "latest"
+	},
+	"engines": {
+		"node": ">=20.5.0"
+	}
+}
