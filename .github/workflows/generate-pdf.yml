@@ -4,6 +4,12 @@ on:
   push:
     paths:
       - "resume.md"
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Re-generate resume PDF"
+        required: false
+        default: "Manual trigger"
 
 jobs:
   generate-pdf:
