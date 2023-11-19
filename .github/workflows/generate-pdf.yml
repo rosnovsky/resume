@@ -6,7 +6,7 @@ on:
       - "resume.md"
 
 jobs:
-  build:
+  generate-pdf:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/resume.pdf
+          git add output/art_rosnovsky_software_engineer.pdf
           git commit -m "Update resume PDF" -a || echo "No changes to commit"
           git push
