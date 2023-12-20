@@ -12,7 +12,7 @@ pdf_options:
 
 ## Software Engineer
 
-> job@rosnovsky.us | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only**
+> job@rosnovsky.us | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only** |
 
 Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kubernetes`, and CI/CD. I champion sustainable, ethical tech that makes a positive impact, and thrive in diverse, remote work environments.
 
@@ -37,27 +37,31 @@ Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kuberne
 
 > **[Auth0](https://auth0.com)**, Remote • Dec 2019 - Mar 2021
 
-- Assisted numerous clients with various levels of Identity Management integrations, from simple setups to complex configurations.
+- Assisted hundreds of clients with various levels of Identity Management integrations, from simple setups to complex configurations.
 
 ### Software Engineer
 
 > **[Microsoft](https://microsoft.com)**, Redmond, WA • Apr 2019 - Oct 2019
 
 - Crafted both the UI and server for an internal search application using `C#`, `.NET Core`, `MSSQL`, and `React`, scaling it from a prototype to a full-scale production app.
+- Saved hundreds of hours of account managers' time by implementing a slick search UI and functionality
 
 ### Web Developer
 
 > **Transmark Logistics**, Kent, WA • Oct 2018 — Mar 2019
 
 - Pioneered an internal shipment and task management system, saving users an average of 40 minutes per day through UI enhancements.
+- Lead a small team from inception of the project to its MVP
+
+<div class="page-break"></div>
 
 ### Web Developer
 
 > **[AT&T](https://att.com)**, Bothell, WA • Apr 2017 - Sep 2018
 
 - Executed over 100 updates and rectified 100+ defects in the AT&T MyServices client portal.
+- With primary focus on defect resolution, proactively researched and fixed issues
 
-<div class="page-break"></div>
 
 ### Web Producer
 
