@@ -20,7 +20,7 @@ Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kuberne
 
 - **Front End**: `JavaScript`, `TypeScript`, `React`, `Tailwind CSS`, UX/UI Design
 - **Back End**: `Node.js`, `Express`, `Next.js`, `MongoDB`, `PostgreSQL`, `gRPC`, RESTful APIs
-- **Dev Tools/DevOps**: Git, npm, Jira, AWS, Azure, CI/CD Strategies
+- **Dev Tools/DevOps**: Git, `Kubernetes`, `Jira`, `AWS`, `Azure`, CI/CD (`GitHub Actions`, `Gitlab Pipelines`)
 
 ## Work Experience
 
