@@ -26,7 +26,7 @@ Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kuberne
 
 ### Software Engineer
 
-> **[Okta](https://okta.com)**, Remote • Mar 2021 - Present
+> **[Okta](https://okta.com)**, Remote • Mar 2021 - April 2024
 
 - Delivered the [Quarterly Snapshot](https://auth0.com/docs/get-started/tenant-settings/auth0-teams/quarterly-snapshot) feature on schedule.
 - Enhanced Technical Account Managers' workflow with internal tools for Quarterly Snapshots.
