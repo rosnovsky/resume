@@ -4,7 +4,8 @@
 	"description": "Converts Markdown resume to PDF format.",
 	"main": "dist/index.js",
 	"scripts": {
-		"build": "ts-node index.ts"
+		"build": "ts-node index.ts",
+		"test": "NODE_ENV=\"test\" node --no-warnings --require \"ts-node/register\" --test **/**/*.test.ts"
 	},
 	"keywords": [
 		"resume",
@@ -21,8 +22,8 @@
 		"typescript": "^5.2.2"
 	},
 	"devDependencies": {
-		"@types/node": "latest",
 		"@types/markdown-pdf": "^9.0.5",
+		"@types/node": "latest",
 		"ts-node": "latest",
 		"typescript": "latest"
 	},

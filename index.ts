@@ -2,10 +2,10 @@ import fs from "node:fs";
 import path from "node:path";
 import { mdToPdf } from "md-to-pdf";
 
-const markdownFilePath = "./resume.md";
-const outputFilePath = "output/art_rosnovsky_software_engineer.pdf";
+export const markdownFilePath = "./resume.md";
+export const outputFilePath = "output/art_rosnovsky_software_engineer.pdf";
 
-(async () => {
+export async function generatePdf() {
   if (!fs.existsSync(markdownFilePath)) {
     console.error(`File ${markdownFilePath} does not exist.`);
     throw new Error(`File ${markdownFilePath} does not exist.`);
@@ -22,4 +22,6 @@ const outputFilePath = "output/art_rosnovsky_software_engineer.pdf";
     console.error(`Error occurred: ${error.message}`);
     throw new Error(error.message);
   }
-})();
+}
+
+generatePdf();
