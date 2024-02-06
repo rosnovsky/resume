@@ -1,27 +1,13 @@
-import fs from "node:fs";
-import path from "node:path";
-import { mdToPdf } from "md-to-pdf";
+import { generatePdf } from './utils/generatePdf';
 
-export const markdownFilePath = "./resume.md";
-export const outputFilePath = "output/art_rosnovsky_software_engineer.pdf";
+const INPUT_FILE_PATH = `${process.cwd()}/resume.md`;
+const OUTPUT_FILE_PATH = `${process.cwd()}/output/art_rosnovsky_software_engineer.pdf`;
 
-export async function generatePdf() {
-  if (!fs.existsSync(markdownFilePath)) {
-    console.error(`File ${markdownFilePath} does not exist.`);
-    throw new Error(`File ${markdownFilePath} does not exist.`);
-  }
-
+(async () => {
   try {
-    const pdf = await mdToPdf({ path: markdownFilePath });
-
-    if (pdf) {
-      fs.writeFileSync(path.resolve(__dirname, outputFilePath), pdf.content);
-      console.log(`PDF has been written to ${outputFilePath}`);
-    }
+    await generatePdf(INPUT_FILE_PATH, OUTPUT_FILE_PATH);
   } catch (error: any) {
     console.error(`Error occurred: ${error.message}`);
-    throw new Error(error.message);
+    process.exit(1);
   }
-}
-
-generatePdf();
+})
