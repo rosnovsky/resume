@@ -20,6 +20,6 @@ export async function generatePdf(inputFilePath: string, outputFilePath: string)
     }
   } catch (error: any) {
     console.error(`Error occurred: ${error.message}`);
-    throw new Error(error);
+    throw error;
   }
 }

@@ -6,6 +6,6 @@ export const markdownToPdf = async (inputFilePath: string) => {
     return pdf;
   } catch (error: any) {
       console.error(`Error occurred: ${error.message}`);
-      throw new Error(error);
+      throw error;
   }
 }
