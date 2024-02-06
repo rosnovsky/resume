@@ -28,7 +28,10 @@ jobs:
           node-version: "20.5.0"
 
       - name: Install dependencies
-        run: npm install -g pnpm && pnpm install 
+        run: npm install -g pnpm && pnpm install
+
+      - name: Run tests
+        run: pnpm test
 
       - name: Generate PDF
         run: pnpm build 
