@@ -8,33 +8,40 @@ pdf_options:
   margin: 25mm
 ---
 
-# Art Rosnovsky
+# Software Engineer
 
-## Software Engineer
+## Art Rosnovsky
 
 > job@rosnovsky.us | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only** |
 
-Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kubernetes`, and CI/CD. I champion sustainable, ethical tech that makes a positive impact, by building stable, scalable, efficient, and maintainable software.
+Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with ` React`, serverless, `Kubernetes` and CI/CD. I champion sustainable, ethical tech that makes a positive impact, by building stable, scalable, efficient, and maintainable software.
 
 ## Technical Skills
 
 - **Front End**: `JavaScript`, `TypeScript`, `React`, `Svelte`, `Tailwind`, `CSS`, `HTML`
 - **Back End**: `Node.js`, `Express`, `Next.js`, `MongoDB`, `PostgreSQL`, `tRPC`, RESTful APIs
-- **Dev Tools/DevOps**: Git, `Docker`, `Kubernetes`, `Jira`, `AWS`, `Azure`, CI/CD (`GitHub Actions`, `Gitlab Pipelines`)
+- **Dev Tools/DevOps**: `Git`, `Docker`, `Kubernetes`, `Jira`, `AWS`, `Azure`, `CI/CD` (`GitHub Actions`, `Gitlab Pipelines`)
 - **Other**: former frontline reporter, can fly single-engine aircraft
 
 ## Work Experience
 
+### Senior Developer (Auth0)
+> **[BeyondID](https://beyondid.com)**, Remote • Apr 2024 - Present
+
+- Implemented end-to-end CIAM solutions for Fortune 500 companies.
+- Developed and produced training materials for internal teams.
+- Developed a variety of internal CIAM-related tools.
+
 ### Software Engineer
 
-> **[Okta](https://okta.com)**, Remote • Mar 2021 - April 2024
+> **[Auth0](https://auth0.com)**, Remote • Mar 2021 - April 2024
 
 - Delivered the [Quarterly Snapshot](https://auth0.com/docs/get-started/tenant-settings/auth0-teams/quarterly-snapshot) feature on schedule.
 - Enhanced Technical Account Managers' workflow by building internal tools for Quarterly Snapshots covering **$20M** worth of ARR.
-- Developed, deployed, and stabilized an internal AI/ML tool, enhancing knowledge sharing and delivery within the Customer First teams **saving over $10K** of SME productive time every year
-- Saved **$20K** annually on AWS bills by strategically decommissioning idle resources
-- Improved and delivered a multitude of high-profile company-wide internal tools
-- Implemented critical security improvements to key in-house Customer Success tools
+- Developed, deployed, and stabilized an internal AI & ML tool, enhancing knowledge sharing and delivery within the Customer First teams **saving over $10K** of SME productive time every year.
+- Saved **$20K** annually on AWS bills by strategically decommissioning idle resources.
+- Improved and delivered a multitude of high-profile company-wide internal tools.
+- Implemented critical security improvements to key in-house Customer Success tools.
 
 ### Developer Support Engineer
 
@@ -44,14 +51,14 @@ Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kuberne
 - Assisted hundreds of major enterprise customers with complex CIAM integration use cases.
 - Guided hundreds of developers through Identity Management implementations in every environment imaginable.
 
+<div class="page-break"></div>
+
 ### Software Engineer
 
 > **[Microsoft](https://microsoft.com)**, Redmond, WA • Apr 2019 - Oct 2019
 
 - Crafted both the UI and backend for an internal search application using `C#`, `.NET Core`, `MSSQL`, and `React`, scaling it from a prototype to a full-scale production app.
 - Saved hundreds of hours of account managers' productive time by implementing a slick search UI and functionality
-
-<div class="page-break"></div>
 
 ### Software Engineer
 
@@ -77,27 +84,14 @@ Dedicated `JavaScript`/`TypeScript` Engineer with a knack for ` React`, `Kuberne
 
 ## Education
 
-### Fanshawe College of Applied Art and Technology
-
-> London, Canada • AA, Multimedia Design
-
-- Developed 'Hourglass', a student assignment management system.
-- Produced a PSA for the local branch of Big Brothers Big Sisters
-
-### RUDN University
-
-> Moscow, Russia • BA, Journalism
-
-- Frontline reporter for country's largest news outlets
-- Reported live from significant events, including terrorist incidents.
-
-### Udacity Nanodegree
-
-- Data Foundations
+- AA, Multimedia Design from [Fanshawe College of Applied Art and Technology](https://fanshawe.ca) (London, Canada)
+- BA, Journalism from [RUDN University](https://rudn.ru) (Moscow, Russia)
+- Data Foundations from [Udacity Nanodegree](https://www.udacity.com/) (Remote)
 
 ## Languages
 
-- Russian — Bilingual (comprehend Belarusian, Ukrainian)
+- English — Bilingual
+- Russian — Bilingual (comprehend Ukrainian 🇺🇦, Belarusian)
 - Arabic — Basic
 
 ## Publications

@@ -1,10 +1,10 @@
 {
 	"name": "resume-manager",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Converts Markdown resume to PDF format.",
 	"main": "dist/index.js",
 	"scripts": {
-		"build": "ts-node index.ts",
+		"build": "ts-node index.ts | pino-pretty",
 		"test": "NODE_ENV=\"test\" node --no-warnings --require \"ts-node/register\" --test **/**/*.test.ts"
 	},
 	"keywords": [
@@ -19,12 +19,14 @@
 	"dependencies": {
 		"markdown-pdf": "^11.0.0",
 		"md-to-pdf": "^5.2.4",
-		"typescript": "^5.2.2"
+		"pino": "^9.4.0",
+		"pino-pretty": "^11.2.2",
+		"typescript": "^5.6.2"
 	},
 	"devDependencies": {
 		"@types/markdown-pdf": "^9.0.5",
-		"@types/node": "latest",
-		"ts-node": "latest",
+		"@types/node": "^22.5.4",
+		"ts-node": "^10.9.2",
 		"typescript": "latest"
 	},
 	"engines": {
