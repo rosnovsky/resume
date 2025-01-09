@@ -12,24 +12,24 @@ pdf_options:
 
 ## Art Rosnovsky
 
-> job@rosnovsky.us | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only** |
+> job@rosnovsky.us | (360) 513-6735 | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only** |
 
-Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with ` React`, serverless, `Kubernetes` and CI/CD. I champion sustainable, ethical tech that makes a positive impact, by building stable, scalable, efficient, and maintainable software.
+Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with `React`, serverless, `Kubernetes`, CI/CD, and **specializing in Customer Identity and Access Management** (`CIAM`). I champion sustainable, ethical tech that makes a positive impact, by building stable, scalable, efficient, and maintainable software.
 
 ## Technical Skills
 
 - **Front End**: `JavaScript`, `TypeScript`, `React`, `Svelte`, `Tailwind`, `CSS`, `HTML`
-- **Back End**: `Node.js`, `Express`, `Next.js`, `MongoDB`, `PostgreSQL`, `tRPC`, RESTful APIs
+- **Back End**: `Node.js`, `Express`, `Next.js`, `Astro`, `Remix`, `MongoDB`, `PostgreSQL`, `tRPC`, RESTful APIs
 - **Dev Tools/DevOps**: `Git`, `Docker`, `Kubernetes`, `Jira`, `AWS`, `Azure`, `CI/CD` (`GitHub Actions`, `Gitlab Pipelines`)
 - **Other**: former frontline reporter, can fly single-engine aircraft
 
 ## Work Experience
 
 ### Senior Developer (Auth0)
-> **[BeyondID](https://beyondid.com)**, Remote • Apr 2024 - Present
+> **[BeyondID](https://beyondid.com)**, Remote • Apr 2024 - Jan 2025
 
-- Implemented end-to-end CIAM solutions for Fortune 500 companies.
-- Developed and produced training materials for internal teams.
+- Implemented end-to-end CIAM solutions for Fortune 500 companies (primarily, in retail, financial services, and healthcare industries).
+- Developed and produced CIAM training materials for internal teams.
 - Developed a variety of internal CIAM-related tools.
 
 ### Software Engineer
@@ -37,8 +37,8 @@ Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with ` React`
 > **[Auth0](https://auth0.com)**, Remote • Mar 2021 - April 2024
 
 - Delivered the [Quarterly Snapshot](https://auth0.com/docs/get-started/tenant-settings/auth0-teams/quarterly-snapshot) feature on schedule.
-- Enhanced Technical Account Managers' workflow by building internal tools for Quarterly Snapshots covering **$20M** worth of ARR.
-- Developed, deployed, and stabilized an internal AI & ML tool, enhancing knowledge sharing and delivery within the Customer First teams **saving over $10K** of SME productive time every year.
+- Enhanced Technical Account Managers' workflow by building internal tools for Quarterly Snapshots.
+- Developed, deployed, and stabilized an internal AI & ML tool, enhancing knowledge sharing and delivery within the Customer First teams **saving over 100 hours** of SME productive time every year.
 - Saved **$20K** annually on AWS bills by strategically decommissioning idle resources.
 - Improved and delivered a multitude of high-profile company-wide internal tools.
 - Implemented critical security improvements to key in-house Customer Success tools.
@@ -48,7 +48,7 @@ Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with ` React`
 > **[Auth0](https://auth0.com)**, Remote • Dec 2019 - Mar 2021
 
 - Successfully resolved over 2,000 support cases of various complexity with an average **cSAT of 99%** and **on-time SLA of 97%**.
-- Assisted hundreds of major enterprise customers with complex CIAM integration use cases.
+- Assisted hundreds of major enterprise customers and startup teams with complex CIAM integration use cases.
 - Guided hundreds of developers through Identity Management implementations in every environment imaginable.
 
 <div class="page-break"></div>
@@ -90,12 +90,15 @@ Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with ` React`
 
 ## Languages
 
-- English — Bilingual
-- Russian — Bilingual (comprehend Ukrainian 🇺🇦, Belarusian)
+- English — Fluent
+- Russian — Fluent (comprehend Ukrainian 🇺🇦, Belarusian)
 - Arabic — Basic
 
-## Publications
+## Open Source / Hobbie Projects
 
-- Rosnovsky, A. (2001). "About robots, Again." PC Week/RE, (300).
-- Rosnovsky, A. (2007). "Mac OS X versus Windows." CNews.
-- Rosnovsky, A. (2008). "Podcast practice: Master class from one of the most famous Russian podcasters." Hacker, (181).
+- [`rosnovsky/astro-mastodon`](https://github.com/rosnovsky/astro-mastodon) - A simple Astro component for displaying Mastodon posts.
+- [`Plex Music Stats`](https://music.rosnovsky.us) - show your Plex music stats. | `typescript`, `react`, `remix`, `tailwind`
+- [`SafeSafe`](https://safesafe.app) - a private app to store your important documents, with automatic OCR and transcripts and vector search. | `typescript`, `react`, `nextjs`, `tailwind`, `tesseract`, `typesense`, `S3`, `SQS`
+- [`rosnovsky/sanity-autocomplete-tags`](https://github.com/rosnovsky/sanity-plugin-autocomplete-tags) - A Sanity plugin for autocompleting tags.
+- [`Current Apple Music`](https://github.com/rosnovsky/current-apple-music) - show what you're listening to on Apple Music.
+- [`rosnovsky/spinup`](https://github.com/rosnovsky/spinup) - A simple CLI tool for installing pre-defined software on new machines.
