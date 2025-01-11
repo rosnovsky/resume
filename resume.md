@@ -22,6 +22,7 @@ Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with `React`,
 - **Back End**: `Node.js`, `Express`, `Next.js`, `Astro`, `Remix`, `MongoDB`, `PostgreSQL`, `tRPC`, RESTful APIs
 - **Dev Tools/DevOps**: `Git`, `Docker`, `Kubernetes`, `Jira`, `AWS`, `Azure`, `CI/CD` (`GitHub Actions`, `Gitlab Pipelines`)
 - **Other**: former frontline reporter, can fly single-engine aircraft
+- **Note**: Please do not interrupt me if you are a Trump supporter.
 
 ## Work Experience
 
