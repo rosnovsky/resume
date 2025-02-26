@@ -5,43 +5,54 @@ css: 'h1, h2 {
 '
 pdf_options:
   format: letter
-  margin: 25mm
+  margin: 15mm
 ---
 
-# Software Engineer
+# Art Rosnovsky
 
-## Art Rosnovsky
+## Software Engineer (CIAM)
 
-> job@rosnovsky.us | (360) 513-6735 | [github.com/rosnovsky](https://github.com/rosnovsky) | Washington state | **Remote Only** |
+> job@rosnovsky.us | (360) 513-6735 | [github.com/rosnovsky](https://github.com/rosnovsky) | Arlington, WA | Remote preferred
 
-Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with `React`, serverless, `Kubernetes`, CI/CD, and **specializing in Customer Identity and Access Management** (`CIAM`). I champion sustainable, ethical tech that makes a positive impact, by building stable, scalable, efficient, and maintainable software.
+Specialized **Customer Identity and Access Management (CIAM)** Engineer with extensive Auth0/Okta expertise and 5+ years of experience in JavaScript/TypeScript development. Proven track record implementing enterprise-grade identity solutions across multiple industries using React, Node.js, and modern cloud infrastructure. Passionate about building secure, scalable, and ethical software that makes a positive impact.
+
+## Core Competencies
+
+- **Identity Engineering**: Enterprise SSO implementations, custom authentication workflows, B2B/B2C identity solutions
+- **Frontend Architecture**: Component design, state management, responsive interfaces, accessibility
+- **Solution Design**: Translating business requirements into technical implementations
+- **Technical Communication**: Documentation, client-facing presentations, stakeholder management
 
 ## Technical Skills
 
-- **Front End**: `JavaScript`, `TypeScript`, `React`, `Svelte`, `Tailwind`, `CSS`, `HTML`
-- **Back End**: `Node.js`, `Express`, `Next.js`, `Astro`, `Remix`, `MongoDB`, `PostgreSQL`, `tRPC`, RESTful APIs
-- **Dev Tools/DevOps**: `Git`, `Docker`, `Kubernetes`, `Jira`, `AWS`, `Azure`, `CI/CD` (`GitHub Actions`, `Gitlab Pipelines`)
+- **Identity & Security**: `Auth0`, `OIDC/OAuth`, `Okta`, `JWT`, `SAML`, `Enterprise SSO`, `MFA`, `RBAC`, `API Security`
+- **Front End**: `TypeScript`, `React`, `Next.js`, `Tailwind CSS`
+- **Back End**: `Node.js`, `Next.js`, `REST APIs`, `MongoDB`, `PostgreSQL`, `Serverless Stack`
+- **DevOps/Cloud**: `AWS`, `Azure`, `Docker`, `Kubernetes`, `CI/CD`, `GitHub Actions`
 - **Other**: former frontline reporter, can fly single-engine aircraft
 
 ## Work Experience
 
-### Senior Developer (Auth0)
+### Senior Auth0 Developer
+
 > **[BeyondID](https://beyondid.com)**, Remote • Apr 2024 - Jan 2025
 
-- Implemented end-to-end CIAM solutions for Fortune 500 companies (primarily, in retail, financial services, and healthcare industries).
-- Developed and produced CIAM training materials for internal teams.
-- Developed a variety of internal CIAM-related tools.
+- Architected and implemented enterprise-grade CIAM solutions for Fortune 500 clients in retail, financial services, and healthcare, improving security posture while enhancing user experience.
+- Developed custom Auth0 Actions, Rules, and Hooks to meet complex authentication and authorization requirements.
+- Created comprehensive CIAM training materials and documentation, becoming the go-to subject matter expert for identity implementation challenges.
+- Built internal tools that streamlined identity-related workflows, reducing implementation time by 30%.
 
 ### Software Engineer
 
 > **[Auth0](https://auth0.com)**, Remote • Mar 2021 - April 2024
 
-- Delivered the [Quarterly Snapshot](https://auth0.com/docs/get-started/tenant-settings/auth0-teams/quarterly-snapshot) feature on schedule.
-- Enhanced Technical Account Managers' workflow by building internal tools for Quarterly Snapshots.
-- Developed, deployed, and stabilized an internal AI & ML tool, enhancing knowledge sharing and delivery within the Customer First teams **saving over 100 hours** of SME productive time every year.
-- Saved **$20K** annually on AWS bills by strategically decommissioning idle resources.
-- Improved and delivered a multitude of high-profile company-wide internal tools.
-- Implemented critical security improvements to key in-house Customer Success tools.
+- Designed and delivered the [Quarterly Snapshot](https://auth0.com/docs/get-started/tenant-settings/auth0-teams/quarterly-snapshot) feature on schedule, enhancing enterprise customers' visibility into platform usage and security metrics.
+- Developed an AI-powered knowledge-sharing tool that saved 100+ hours of SME time annually while improving customer success team's access to critical information.
+- Implemented critical security improvements to customer-facing tools, ensuring compliance with major frameworks (SOC2, NIST, ISO 27001, etc) requirements.
+- Optimized AWS resource utilization, resulting in $20K annual cost reduction while maintaining application performance.
+- Collaborated cross-functionally with product, design, and customer success teams to deliver high-impact internal tools.
+
+<div class="page-break"></div>
 
 ### Developer Support Engineer
 
@@ -50,8 +61,6 @@ Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with `React`,
 - Successfully resolved over 2,000 support cases of various complexity with an average **cSAT of 99%** and **on-time SLA of 97%**.
 - Assisted hundreds of major enterprise customers and startup teams with complex CIAM integration use cases.
 - Guided hundreds of developers through Identity Management implementations in every environment imaginable.
-
-<div class="page-break"></div>
 
 ### Software Engineer
 
@@ -67,20 +76,12 @@ Dedicated `JavaScript`/`TypeScript` Engineer, passionately working with `React`,
 - Lead a small team from inception of the project to its MVP
 - Pioneered an internal shipment and task management system, saving users an average of 40 minutes of productive time per day through UI enhancements.
 
-
 ### Web Developer
 
 > **[AT&T](https://att.com)**, Bothell, WA • Apr 2017 - Sep 2018
 
 - Executed over 100 updates and rectified hundreds of defects in the AT&T MyServices client portal.
 - With primary focus on defect resolution, proactively researched and fixed issues outside of the scope of daily responsibilities
-
-
-### Web Producer
-
-> **[Intel](https://intel.com)**, Hillsboro, OR • Dec 2016 - Apr 2017
-
-- Launched Intel’s revamped Product catalog with AEM, `HTML`/`CSS`, and `Bootstrap`.
 
 ## Education
 
